@@ -12,7 +12,7 @@ https://git-scm.com/download
     git add Exemplo
     git commit -m " informação sobre o Exemplo "
 
-- [X] Verificar mudanças no projeto
+- [X] Verificar mudanças no projeto.
     git log
 
 - [X] começar uma nova funcionalidade no projeto, sem estragar o que foi feito.
