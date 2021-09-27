@@ -14,3 +14,9 @@ https://git-scm.com/download
 
 - [] Verificar mudanças no projeto
     git log
+
+- [] começar uma nova funcionalidade no projeto, sem estragar o que foi feito.
+    git branch Funcionalidade
+    ex: git branch Carrinho-compras
+    git checkout Carrinho-compras -> time line alternativa pra criar a funcionalidade.
+    
